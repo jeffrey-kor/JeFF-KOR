@@ -18,7 +18,7 @@ LinkedIn : <a href="https://www.linkedin.com/in/jung-ki-yoon-0a2345169/">Linkedi
 Blog : <a href="https://jeffrey-kor.github.io/">Blog address</a>
 
 ## Interests
-독서 : 개발 서적 같이 읽고 토론하기</br>
+독서 : 개발 서적 읽고 토론하기</br>
 공유 : 관심있거나 배워야하는 기술 같이 공부하며 공유하기</br>
 취미 : 여행가기, 온-오프라인 모각코 참여하기, 넷플릭스로 영어공부하기</br>
 학업 : 방송통신대학교 Computer science 3학년 편입 중
